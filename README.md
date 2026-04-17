@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Apeksha!
 
-### 🎓 **BSc Data Science & Artificial Intelligence (Year 2)**
+### 🎓 **BSc Data Science & Artificial Intelligence**
 I am a dedicated Data Science student focused on bridging the gap between raw data and actionable AI solutions. Currently transitioning into my second year, I am moving beyond basics to build end-to-end Machine Learning and RAG-based applications.
 
 ---
@@ -22,9 +22,9 @@ I am a dedicated Data Science student focused on bridging the gap between raw da
 ---
 
 ### 🌱 **Current Focus**
-* 🧠 Deepening my knowledge of **Vector Databases** and **LLM Optimization**.
-* 📊 Exploring complex data visualization and statistical modeling.
-* 💡 Solving real-world problems through open-source contributions.
+* 🧠 **Advanced AI Architectures:** Exploring RAG, Agentic workflows, and LLM optimization (currently working with Llama 3.2).
+* 📊 **Full-Stack Data Apps:** Mastering the integration of Python backends (FastAPI) with modern frontends (React).
+* 📈 **Data Science Depth:** Strengthening my foundation in statistical modeling and complex data visualization for my second year.
 
 ---
 

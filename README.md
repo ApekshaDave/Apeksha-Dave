@@ -26,10 +26,12 @@ I am a Data Science and AI enthusiast focused on building end-to-end application
 
 ---
 
-### 🌱 Current Learning & Research
-* 🧠 **Advanced ML:** Diving deeper into neural network architectures and reinforcement learning.
-* 📊 **Visualization:** Mastering D3.js and advanced Matplotlib for complex storytelling.
-* ⚙️ **Optimization:** Exploring ways to make AI models faster and more lightweight for edge devices.
+### 📚 Continuous Learning & Exploration
+I believe that staying stagnant is not an option in AI. I am constantly diving into new domains to expand my technical horizon:
+
+* **Currently Exploring:** Agentic AI Frameworks (AutoGPT/LangGraph) and the mathematics behind Neural Networks.
+* **Deepening Expertise:** Advanced Data Engineering pipelines and Cloud Deployment (AWS/Azure).
+* **Research Interests:** The intersection of AI Ethics and Healthcare, and high-performance computing for edge AI.
 
 ---
 

@@ -1,36 +1,39 @@
-# 👋 Hi, I'm Apeksha!
+# 👋 Hi, I'm Apeksha
 
-### 🎓 **BSc Data Science & Artificial Intelligence**
-I am a dedicated Data Science student focused on bridging the gap between raw data and actionable AI solutions. Currently transitioning into my second year, I am moving beyond basics to build end-to-end Machine Learning and RAG-based applications.
+**Data Science & AI | Full-Stack Developer | Problem Solver**
 
----
-
-### 🛠️ **Tech Stack & Tools**
-* **Languages:** Python (Advanced Basics), SQL, JavaScript
-* **AI/ML:** RAG (Retrieval-Augmented Generation), FAISS, Ollama, Llama 3.2
-* **Web:** FastAPI, React.js
-* **Tools:** Git/GitHub, VS Code, Jupyter Notebooks
+I am a Data Science and AI enthusiast focused on building end-to-end applications. My goal is to bridge the gap between complex data analysis and intuitive, user-facing software. I thrive on turning messy datasets into streamlined, intelligent systems.
 
 ---
 
-### 🚀 **Featured Project**
-**[Dr. Owl - Medical RAG Assistant](https://github.com/ApekshaDave/Dr-Owl-Medical-RAG)**
-* A privacy-first AI assistant using **Llama 3.2** and **FAISS**.
-* Implemented semantic search over a **45k+ medical Q&A dataset**.
-* Built a full-stack interface with **FastAPI** and **React**.
+### 🛠️ Technical Ecosystem
+
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Data Science** | Python (Pandas, NumPy, Matplotlib), SQL, Statistical Modeling |
+| **Artificial Intelligence** | LLMs (Llama 3.2), Vector DBs (FAISS), Semantic Search, RAG |
+| **Development** | FastAPI, React.js, RESTful APIs, Tailwind CSS |
+| **Engineering** | Git/GitHub, Linux Environments, Data Pipelines |
 
 ---
 
-### 🌱 **Current Focus**
-* 🧠 **Advanced AI Architectures:** Exploring RAG, Agentic workflows, and LLM optimization (currently working with Llama 3.2).
-* 📊 **Full-Stack Data Apps:** Mastering the integration of Python backends (FastAPI) with modern frontends (React).
-* 📈 **Data Science Depth:** Strengthening my foundation in statistical modeling and complex data visualization for my second year.
+### 🚀 Projects Gallery
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Dr. Owl](https://github.com/ApekshaDave/Dr-Owl-Medical-RAG)** | A privacy-first Medical AI Assistant using local RAG. | Llama 3.2, FAISS, FastAPI, React |
+
 
 ---
 
-### ✨ **Let's Connect!**
-* 📫 **LinkedIn:** https://www.linkedin.com/in/apeksha-dave-39a339240/
-* 💬 Always open to discussing AI, collaborating on projects, or just talking tech!
+### 🌱 Current Learning & Research
+* 🧠 **Advanced ML:** Diving deeper into neural network architectures and reinforcement learning.
+* 📊 **Visualization:** Mastering D3.js and advanced Matplotlib for complex storytelling.
+* ⚙️ **Optimization:** Exploring ways to make AI models faster and more lightweight for edge devices.
 
 ---
-*“Turning data into insights, one line of code at a time.”*
+
+### ✨ Let's Connect
+[LinkedIn] https://www.linkedin.com/in/apeksha-dave-39a339240/ | [Email] Apekshadave22@gmail.com
+
+*"Constantly iterating, forever learning."*
